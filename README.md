@@ -5,7 +5,7 @@
 [![Test](https://github.com/anime-vsub/about/actions/workflows/test.yml/badge.svg)](https://github.com/anime-vsub/about/actions/workflows/test.yml)
 [![CodeQL](https://github.com/anime-vsub/about/actions/workflows/codeql.yml/badge.svg)](https://github.com/anime-vsub/about/actions/workflows/codeql.yml)
 [![ESLint](https://github.com/anime-vsub/about/actions/workflows/eslint.yml/badge.svg)](https://github.com/anime-vsub/about/actions/workflows/eslint.yml)
-[![Prettier](https://github.com/anime-vsub/about/actions/workflows/pretter.yml/badge.svg)](https://github.com/anime-vsub/about/actions/workflows/pretter.yml)
+[![Prettier](https://github.com/anime-vsub/about/actions/workflows/prettier.yml/badge.svg)](https://github.com/anime-vsub/about/actions/workflows/prettier.yml)
 [![TypeScript Checker Declaration](https://github.com/anime-vsub/about/actions/workflows/typing.yml/badge.svg)](https://github.com/anime-vsub/about/actions/workflows/typing.yml)
 [![Try build](https://github.com/anime-vsub/about/actions/workflows/try-build.yml/badge.svg)](https://github.com/anime-vsub/about/actions/workflows/try-build.yml)
 
