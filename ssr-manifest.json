@@ -1,0 +1,152 @@
+{
+  "pages/disclaimer.md?vue&type=script&setup=true&lang.ts": [
+    "/assets/disclaimer-987a5a7b.js"
+  ],
+  "pages/disclaimer.md": [
+    "/assets/disclaimer-987a5a7b.js"
+  ],
+  "pages/privacy-police.md?vue&type=script&setup=true&lang.ts": [
+    "/assets/privacy-police-33e59ae4.js"
+  ],
+  "pages/privacy-police.md": [
+    "/assets/privacy-police-33e59ae4.js"
+  ],
+  "pages/tems-of-use.md?vue&type=script&setup=true&lang.ts": [
+    "/assets/tems-of-use-918aabf1.js"
+  ],
+  "pages/tems-of-use.md": [
+    "/assets/tems-of-use-918aabf1.js"
+  ],
+  "\u0000vite/modulepreload-polyfill": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "../../../../../@windicss/windi.css": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "src/styles/main.scss": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "src/styles/prose.scss": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "src/styles/markdown.scss": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "\u0000commonjsHelpers.js": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "\u0000/home/runner/work/about/about/node_modules/.pnpm/dayjs@1.11.7/node_modules/dayjs/dayjs.min.js?commonjs-module": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/dayjs@1.11.7/node_modules/dayjs/dayjs.min.js": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "\u0000/home/runner/work/about/about/node_modules/.pnpm/dayjs@1.11.7/node_modules/dayjs/plugin/localizedFormat.js?commonjs-module": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/dayjs@1.11.7/node_modules/dayjs/plugin/localizedFormat.js": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "\u0000/home/runner/work/about/about/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "\u0000vite/preload-helper": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/@vue+shared@3.2.45/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/@vue+reactivity@3.2.45/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/@vue+runtime-core@3.2.45/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/@vue+runtime-dom@3.2.45/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/hookable@5.4.2/node_modules/hookable/dist/index.mjs": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/@unhead+vue@1.0.14_vue@3.2.45/node_modules/@unhead/vue/dist/index.mjs": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/@unhead+dom@1.0.14/node_modules/@unhead/dom/dist/index.mjs": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/@vueuse+head@1.0.22_vue@3.2.45/node_modules/@vueuse/head/dist/index.mjs": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "pages/index.md?vue&type=script&setup=true&lang.ts": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "../../../../../@vite-plugin-pages/generated-pages?id=pages-generated": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/vue-router@4.1.6_vue@3.2.45/node_modules/vue-router/dist/vue-router.mjs": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/vite-ssg@0.22.1_li7wvrxy2mzcyrqcsobzlykrwu/node_modules/vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/vite-ssg@0.22.1_li7wvrxy2mzcyrqcsobzlykrwu/node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/vite-ssg@0.22.1_li7wvrxy2mzcyrqcsobzlykrwu/node_modules/vite-ssg/dist/index.mjs": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "\u0000plugin-vue:export-helper": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "src/components/Footer.vue": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "src/components/FooterEmbed.vue": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/@vueuse+shared@9.9.0_vue@3.2.45/node_modules/@vueuse/shared/index.mjs": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/@vueuse+core@9.9.0_vue@3.2.45/node_modules/@vueuse/core/index.mjs": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "src/logics/index.ts": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/@iconify+vue@4.0.2_vue@3.2.45/node_modules/@iconify/vue/dist/iconify.mjs": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "src/components/ToggleTheme.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "src/assets/animevsub.svg": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "src/components/NavBar.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "src/components/NavBar.vue?vue&type=style&index=0&scoped=eba43c16&lang.scss": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "src/components/NavBar.vue": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "node_modules/.pnpm/@vueuse+router@9.9.0_xsxatmlnmmg5bcuv3xdnj6fj7y/node_modules/@vueuse/router/index.mjs": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "src/assets/animevsub.svg?url": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "src/App.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "src/main.ts": [
+    "/assets/animevsub-9604830c.svg"
+  ],
+  "index.html": [
+    "/assets/animevsub-9604830c.svg"
+  ]
+}
