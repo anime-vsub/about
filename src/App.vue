@@ -9,18 +9,24 @@
 
 <script setup lang="ts">
 import { useRouteQuery } from "@vueuse/router"
+
+import icon from "/~/assets/animevsub.svg?url"
 const isEmbed = useRouteQuery("embed")
 
 useHead({
   meta: [
-    { property: "og:title", content: "Tachibana Shin (たちばなしん)" },
+    { property: "og:title", content: "About - AnimeVsub" },
     {
       property: "og:image",
-      content: "https://shin.is-a.dev/avatar-flat.jpg",
+      content: icon,
     },
     {
       name: "description",
-      content: "Tachibana Shin (たちばなしん)'s Portfolio",
+      content: "AnimeVsub's information, terms of service, statement",
+    },
+    {
+      property: "og:description",
+      content: "AnimeVsub's information, terms of service, statement",
     },
     { name: "twitter:card", content: "summary" },
     { name: "twitter:creator", content: "@tachib_shin" },

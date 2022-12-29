@@ -1,5 +1,6 @@
 ---
 title: Disclaimer - AnimeVsub
+description: AnimeVsub disclaimer
 ---
 
 **DISCLAIMER**

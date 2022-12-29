@@ -1,5 +1,6 @@
 ---
 title: About - AnimeVsub
+description: About AnimeVsub
 ---
 
 ## Hi there 👋

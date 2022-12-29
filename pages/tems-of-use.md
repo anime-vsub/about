@@ -1,5 +1,6 @@
 ---
 title: Tems of use - AnimeVsub
+description: AnimeVsub's terms of use
 ---
 
 Được cập nhật vào: 2022.06.08

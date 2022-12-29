@@ -1,5 +1,6 @@
 ---
 title: Privacy Police - AnimeVsub
+description: AnimeVsub's data privacy policy
 ---
 
 **PRIVACY NOTICE**
