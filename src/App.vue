@@ -2,8 +2,8 @@
   <NavBar v-if="!isEmbed" />
   <main class="px-7 pb-10 pt-7">
     <router-view />
-    <Footer v-if="!isEmbed" />
     <FooterEmbed />
+    <Footer v-if="!isEmbed" />
   </main>
 </template>
 
