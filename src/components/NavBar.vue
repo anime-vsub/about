@@ -5,8 +5,8 @@
       to="/"
       focusable="false"
     >
-      <img v-show="!isDark" src="/~/assets/animevsub.svg" alt="logo" />
-      <img v-show="isDark" src="/~/assets/animevsub.svg" alt="logo" />
+      <img v-show="!isDark" src="/src/assets/animevsub.svg" alt="logo" />
+      <img v-show="isDark" src="/src/assets/animevsub.svg" alt="logo" />
     </router-link>
     <nav class="nav">
       <div class="spacer" />
@@ -64,9 +64,9 @@
 </template>
 
 <script setup lang="ts">
-import { isDark } from "/~/logics"
-
 import { Icon } from "@iconify/vue"
+
+import { isDark } from "../logics"
 </script>
 
 <style lang="scss" scoped>

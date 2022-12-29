@@ -37,9 +37,7 @@ function getCtimeFile(filepath: string): string {
 }
 
 const config: UserConfig = {
-  resolve: {
-    alias: [{ find: "/~/", replacement: `${resolve(__dirname, "src")}/` }],
-  },
+  base: "./",
   optimizeDeps: {
     include: [
       "vue",

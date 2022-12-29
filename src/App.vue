@@ -10,7 +10,7 @@
 <script setup lang="ts">
 import { useRouteQuery } from "@vueuse/router"
 
-import icon from "/~/assets/animevsub.svg?url"
+import icon from "/src/assets/animevsub.svg?url"
 const isEmbed = useRouteQuery("embed")
 
 useHead({

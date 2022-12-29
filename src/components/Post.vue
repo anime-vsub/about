@@ -27,9 +27,10 @@
   </div>
 </template>
 <script setup lang="ts">
-import { formatDate } from "/~/logics"
-
 import { isClient } from "@vueuse/core"
+
+import { formatDate } from "../logics"
+
 // eslint-disable-next-line vue/no-setup-props-destructure, @typescript-eslint/no-explicit-any
 const { frontmatter } = defineProps<{ frontmatter: any }>()
 const router = useRouter()

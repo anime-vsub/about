@@ -11,10 +11,7 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "forceConsistentCasingInFileNames": true,
-    "types": ["vite/client", "vite-plugin-pages/client"],
-    "paths": {
-      "/~/*": ["src/*"]
-    }
+    "types": ["vite/client", "vite-plugin-pages/client"]
   },
   "exclude": ["dist", "node_modules"]
 }
