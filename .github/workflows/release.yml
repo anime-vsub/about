@@ -58,6 +58,9 @@ jobs:
 
       - name: Test
         run: pnpm test
+
+      - name: Build
+        run: pnpm build
       
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
