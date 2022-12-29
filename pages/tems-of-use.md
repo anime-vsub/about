@@ -1,3 +1,7 @@
+---
+title: Tems of use - AnimeVsub
+---
+
 Được cập nhật vào: 2022.06.08 
 
 **Điều khoản của Anime-Vsub tương thích với điều khoản phần mềm mã nguồn mở của MIT**
