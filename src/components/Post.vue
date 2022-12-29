@@ -27,26 +27,28 @@
   </div>
 </template>
 <script setup lang="ts">
-import { formatDate } from "/~/logics";
-import { isClient } from "@vueuse/core";
-const { frontmatter } = defineProps<{ frontmatter: any }>();
-const router = useRouter();
-const route = useRoute();
-const content = ref<HTMLElement>();
+import { formatDate } from "/~/logics"
+
+import { isClient } from "@vueuse/core"
+// eslint-disable-next-line vue/no-setup-props-destructure, @typescript-eslint/no-explicit-any
+const { frontmatter } = defineProps<{ frontmatter: any }>()
+const router = useRouter()
+const route = useRoute()
+const content = ref<HTMLElement>()
 if (isClient) {
   const navigate = () => {
     if (location.hash) {
       document
         .querySelector(decodeURIComponent(location.hash))
-        ?.scrollIntoView({ behavior: "smooth" });
+        ?.scrollIntoView({ behavior: "smooth" })
     }
-  };
+  }
   const handleAnchors = (
     event: MouseEvent & {
-      target: HTMLElement;
+      target: HTMLElement
     }
   ) => {
-    const link = event.target.closest("a");
+    const link = event.target.closest("a")
     if (
       !event.defaultPrevented &&
       link &&
@@ -59,23 +61,24 @@ if (isClient) {
       !event.shiftKey &&
       !event.altKey
     ) {
-      const url = new URL(link.href);
-      if (url.origin !== window.location.origin) return;
-      event.preventDefault();
-      const { pathname, hash } = url;
+      // eslint-disable-next-line n/no-unsupported-features/node-builtins
+      const url = new URL(link.href)
+      if (url.origin !== window.location.origin) return
+      event.preventDefault()
+      const { pathname, hash } = url
       if (hash && !pathname) {
-        window.history.replaceState({}, "", hash);
-        navigate();
+        window.history.replaceState({}, "", hash)
+        navigate()
       } else {
-        router.push({ path: pathname, hash });
+        router.push({ path: pathname, hash })
       }
     }
-  };
-  useEventListener(window, "hashchange", navigate);
-  useEventListener(content, "click", handleAnchors);
+  }
+  useEventListener(window, "hashchange", navigate)
+  useEventListener(content, "click", handleAnchors)
   onMounted(() => {
-    navigate();
-    setTimeout(navigate, 500);
-  });
+    navigate()
+    setTimeout(navigate, 500)
+  })
 }
 </script>

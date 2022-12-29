@@ -8,8 +8,8 @@
 </template>
 
 <script setup lang="ts">
-import { useRouteQuery} from "@vueuse/router"
-const isEmbed = useRouteQuery("embed");
+import { useRouteQuery } from "@vueuse/router"
+const isEmbed = useRouteQuery("embed")
 
 useHead({
   meta: [
@@ -25,5 +25,5 @@ useHead({
     { name: "twitter:card", content: "summary" },
     { name: "twitter:creator", content: "@tachib_shin" },
   ],
-});
+})
 </script>

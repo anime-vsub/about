@@ -64,8 +64,9 @@
 </template>
 
 <script setup lang="ts">
-import { isDark } from "/~/logics";
-import { Icon } from "@iconify/vue";
+import { isDark } from "/~/logics"
+
+import { Icon } from "@iconify/vue"
 </script>
 
 <style lang="scss" scoped>

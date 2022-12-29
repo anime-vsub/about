@@ -1,0 +1,7 @@
+{
+  "extends": ["@tachibana-shin/eslint-config-vue"],
+  "rules": {
+    "no-undef": "off",
+    "import/no-absolute-path": "off"
+  }
+}

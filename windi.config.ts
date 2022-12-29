@@ -1,7 +1,5 @@
-// @ts-ignore
-import { defineConfig } from "windicss/helpers";
-// @ts-ignore
-import typography from "windicss/plugin/typography";
+import { defineConfig } from "windicss/helpers"
+import typography from "windicss/plugin/typography"
 
 export default defineConfig({
   extract: {
@@ -38,4 +36,4 @@ export default defineConfig({
       },
     },
   },
-});
+})

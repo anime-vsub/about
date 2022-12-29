@@ -1,18 +1,17 @@
-# Vue 3 + TypeScript + Vite
+# AnimeVsub App version Web for Desktop Browser
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+[![GitHub license](https://img.shields.io/github/license/anime-vsub/about)](https://github.com/anime-vsub/about/blob/main/LICENSE) <img alt="GitHub Issues" src="https://img.shields.io/github/issues/anime-vsub/about" /> <img alt="Code Score" src="https://api.codiga.io/project/35013/score/svg" /> <img alt="Code Score" src="https://api.codiga.io/project/35013/status/svg" />
 
-## Recommended IDE Setup
+[![Test](https://github.com/anime-vsub/about/actions/workflows/test.yml/badge.svg)](https://github.com/anime-vsub/about/actions/workflows/test.yml)
+[![CodeQL](https://github.com/anime-vsub/about/actions/workflows/codeql.yml/badge.svg)](https://github.com/anime-vsub/about/actions/workflows/codeql.yml)
+[![ESLint](https://github.com/anime-vsub/about/actions/workflows/eslint.yml/badge.svg)](https://github.com/anime-vsub/about/actions/workflows/eslint.yml)
+[![Prettier](https://github.com/anime-vsub/about/actions/workflows/pretter.yml/badge.svg)](https://github.com/anime-vsub/about/actions/workflows/pretter.yml)
+[![TypeScript Checker Declaration](https://github.com/anime-vsub/about/actions/workflows/typing.yml/badge.svg)](https://github.com/anime-vsub/about/actions/workflows/typing.yml)
+[![Try build](https://github.com/anime-vsub/about/actions/workflows/try-build.yml/badge.svg)](https://github.com/anime-vsub/about/actions/workflows/try-build.yml)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+AnimeVsub's Introduction and Policies
 
-## Type Support For `.vue` Imports in TS
+## Sponsor ☕
+If you find this project useful please support me through:
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
-
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
-
-1. Disable the built-in TypeScript Extension
-   1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-   2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+[<img src="https://user-images.githubusercontent.com/45375496/209764740-d202626d-4acd-4517-a5dc-e94993eeeb0a.png" width="80" />](https://me.momo.vn/tachibshin)
