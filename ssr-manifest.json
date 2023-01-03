@@ -1,21 +1,27 @@
 {
-  "pages/disclaimer.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/disclaimer-053d5f8a.js"
-  ],
-  "pages/disclaimer.md": [
-    "./assets/disclaimer-053d5f8a.js"
-  ],
-  "pages/privacy-police.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/privacy-police-02884d08.js"
-  ],
-  "pages/privacy-police.md": [
-    "./assets/privacy-police-02884d08.js"
-  ],
   "pages/tems-of-use.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/tems-of-use-3dc7d195.js"
+    "./assets/tems-of-use-e645e94c.js"
   ],
   "pages/tems-of-use.md": [
-    "./assets/tems-of-use-3dc7d195.js"
+    "./assets/tems-of-use-e645e94c.js"
+  ],
+  "pages/sponsors.md?vue&type=script&setup=true&lang.ts": [
+    "./assets/sponsors-1960bec3.js"
+  ],
+  "pages/sponsors.md": [
+    "./assets/sponsors-1960bec3.js"
+  ],
+  "pages/privacy-police.md?vue&type=script&setup=true&lang.ts": [
+    "./assets/privacy-police-7cf8087b.js"
+  ],
+  "pages/privacy-police.md": [
+    "./assets/privacy-police-7cf8087b.js"
+  ],
+  "pages/disclaimer.md?vue&type=script&setup=true&lang.ts": [
+    "./assets/disclaimer-0a6a8b5b.js"
+  ],
+  "pages/disclaimer.md": [
+    "./assets/disclaimer-0a6a8b5b.js"
   ],
   "\u0000vite/modulepreload-polyfill": [
     "./assets/animevsub-9604830c.svg"
@@ -128,7 +134,7 @@
   "src/components/NavBar.vue?vue&type=script&setup=true&lang.ts": [
     "./assets/animevsub-9604830c.svg"
   ],
-  "src/components/NavBar.vue?vue&type=style&index=0&scoped=5bb29e22&lang.scss": [
+  "src/components/NavBar.vue?vue&type=style&index=0&scoped=cd732bf3&lang.scss": [
     "./assets/animevsub-9604830c.svg"
   ],
   "src/components/NavBar.vue": [
