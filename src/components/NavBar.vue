@@ -47,6 +47,15 @@
             height="25"
           />
         </router-link>
+        <router-link to="/sponsors">
+          <span class="<md:hidden">Sponsors</span>
+          <Icon
+            class="md:hidden align-middle"
+            icon="octicon:sponsor-tiers-24"
+            width="25"
+            height="25"
+          />
+        </router-link>
         <a
           href="https://twitter.com/tachib_shin"
           target="_blank"
