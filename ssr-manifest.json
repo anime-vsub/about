@@ -1,27 +1,27 @@
 {
   "pages/tems-of-use.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/tems-of-use-e645e94c.js"
+    "./assets/tems-of-use-63d2f853.js"
   ],
   "pages/tems-of-use.md": [
-    "./assets/tems-of-use-e645e94c.js"
-  ],
-  "pages/sponsors.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/sponsors-1960bec3.js"
-  ],
-  "pages/sponsors.md": [
-    "./assets/sponsors-1960bec3.js"
-  ],
-  "pages/privacy-police.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/privacy-police-7cf8087b.js"
-  ],
-  "pages/privacy-police.md": [
-    "./assets/privacy-police-7cf8087b.js"
+    "./assets/tems-of-use-63d2f853.js"
   ],
   "pages/disclaimer.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/disclaimer-0a6a8b5b.js"
+    "./assets/disclaimer-28f6e323.js"
   ],
   "pages/disclaimer.md": [
-    "./assets/disclaimer-0a6a8b5b.js"
+    "./assets/disclaimer-28f6e323.js"
+  ],
+  "pages/sponsors.md?vue&type=script&setup=true&lang.ts": [
+    "./assets/sponsors-267c8bd0.js"
+  ],
+  "pages/sponsors.md": [
+    "./assets/sponsors-267c8bd0.js"
+  ],
+  "pages/privacy-police.md?vue&type=script&setup=true&lang.ts": [
+    "./assets/privacy-police-6e53beb0.js"
+  ],
+  "pages/privacy-police.md": [
+    "./assets/privacy-police-6e53beb0.js"
   ],
   "\u0000vite/modulepreload-polyfill": [
     "./assets/animevsub-9604830c.svg"
