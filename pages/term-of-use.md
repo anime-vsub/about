@@ -1,5 +1,5 @@
 ---
-title: Tems of use - AnimeVsub
+title: Terms of use - AnimeVsub
 description: AnimeVsub's terms of use
 ---
 

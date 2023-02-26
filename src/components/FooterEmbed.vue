@@ -5,6 +5,6 @@
     <router-link class="mx-3" to="/">About</router-link>
     <router-link class="mx-3" to="/disclaimer">Disclaimer</router-link>
     <router-link class="mx-3" to="/privacy-police">Privacy Police</router-link>
-    <router-link class="mx-3" to="/tems-of-use">Tems of use</router-link>
+    <router-link class="mx-3" to="/term-of-use">Term of use</router-link>
   </div>
 </template>

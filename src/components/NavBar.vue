@@ -29,8 +29,8 @@
             height="25"
           />
         </router-link>
-        <router-link to="/tems-of-use">
-          <span class="<md:hidden">Tems of use</span>
+        <router-link to="/term-of-use">
+          <span class="<md:hidden">Term of use</span>
           <Icon
             class="md:hidden align-middle"
             icon="ri:article-line"
