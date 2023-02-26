@@ -1,27 +1,27 @@
 {
-  "pages/disclaimer.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/disclaimer-e89e31ae.js"
-  ],
-  "pages/disclaimer.md": [
-    "./assets/disclaimer-e89e31ae.js"
-  ],
   "pages/sponsors.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/sponsors-7b615429.js"
+    "./assets/sponsors-3ad3d7b4.js"
   ],
   "pages/sponsors.md": [
-    "./assets/sponsors-7b615429.js"
+    "./assets/sponsors-3ad3d7b4.js"
   ],
   "pages/privacy-police.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/privacy-police-55678603.js"
+    "./assets/privacy-police-59707ac2.js"
   ],
   "pages/privacy-police.md": [
-    "./assets/privacy-police-55678603.js"
+    "./assets/privacy-police-59707ac2.js"
   ],
-  "pages/tems-of-use.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/tems-of-use-173c93f2.js"
+  "pages/term-of-use.md?vue&type=script&setup=true&lang.ts": [
+    "./assets/term-of-use-b232ae44.js"
   ],
-  "pages/tems-of-use.md": [
-    "./assets/tems-of-use-173c93f2.js"
+  "pages/term-of-use.md": [
+    "./assets/term-of-use-b232ae44.js"
+  ],
+  "pages/disclaimer.md?vue&type=script&setup=true&lang.ts": [
+    "./assets/disclaimer-3e3b483b.js"
+  ],
+  "pages/disclaimer.md": [
+    "./assets/disclaimer-3e3b483b.js"
   ],
   "\u0000vite/modulepreload-polyfill": [
     "./assets/animevsub-9604830c.svg"
@@ -134,7 +134,7 @@
   "src/components/NavBar.vue?vue&type=script&setup=true&lang.ts": [
     "./assets/animevsub-9604830c.svg"
   ],
-  "src/components/NavBar.vue?vue&type=style&index=0&scoped=cd732bf3&lang.scss": [
+  "src/components/NavBar.vue?vue&type=style&index=0&scoped=e848a586&lang.scss": [
     "./assets/animevsub-9604830c.svg"
   ],
   "src/components/NavBar.vue": [
