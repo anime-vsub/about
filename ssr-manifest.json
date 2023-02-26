@@ -1,27 +1,27 @@
 {
-  "pages/tems-of-use.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/tems-of-use-63d2f853.js"
-  ],
-  "pages/tems-of-use.md": [
-    "./assets/tems-of-use-63d2f853.js"
-  ],
   "pages/disclaimer.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/disclaimer-28f6e323.js"
+    "./assets/disclaimer-e89e31ae.js"
   ],
   "pages/disclaimer.md": [
-    "./assets/disclaimer-28f6e323.js"
+    "./assets/disclaimer-e89e31ae.js"
   ],
   "pages/sponsors.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/sponsors-267c8bd0.js"
+    "./assets/sponsors-7b615429.js"
   ],
   "pages/sponsors.md": [
-    "./assets/sponsors-267c8bd0.js"
+    "./assets/sponsors-7b615429.js"
   ],
   "pages/privacy-police.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/privacy-police-6e53beb0.js"
+    "./assets/privacy-police-55678603.js"
   ],
   "pages/privacy-police.md": [
-    "./assets/privacy-police-6e53beb0.js"
+    "./assets/privacy-police-55678603.js"
+  ],
+  "pages/tems-of-use.md?vue&type=script&setup=true&lang.ts": [
+    "./assets/tems-of-use-173c93f2.js"
+  ],
+  "pages/tems-of-use.md": [
+    "./assets/tems-of-use-173c93f2.js"
   ],
   "\u0000vite/modulepreload-polyfill": [
     "./assets/animevsub-9604830c.svg"
