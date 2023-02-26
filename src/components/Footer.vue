@@ -7,7 +7,7 @@
         style="color: inherit"
         >GNU-GPL 3</a
       >
-      {{ new Date().getFullYear() }} © Tachibana Shin (たちばなしん)</span
+      {{ new Date().getFullYear() }} © Tachibana Shin (橘しん)</span
     >
     <div class="flex-auto" />
   </div>
