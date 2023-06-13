@@ -11,7 +11,7 @@ AnimeVsub is an interesting rendezvous where you can enjoy the latest Anime seri
 
 This privacy notice for AnimeVsub (doing business as ogmo2r3q@duck.com) ("**ogmo2r3q@duck.com**," "**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
 
-- Visit our website at [https://animevsub.ga](https://animevsub.ga), or any website of ours that links to this privacy notice
+- Visit our website at [https://animevsub.eu.org](https://animevsub.eu.org), or any website of ours that links to this privacy notice
 
 - Download and use our mobile application (AnimeVsub), or any other application of ours that links to this privacy notice
 
