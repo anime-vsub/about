@@ -1,27 +1,27 @@
 {
-  "pages/sponsors.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/sponsors-3ad3d7b4.js"
-  ],
-  "pages/sponsors.md": [
-    "./assets/sponsors-3ad3d7b4.js"
-  ],
-  "pages/privacy-police.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/privacy-police-59707ac2.js"
-  ],
-  "pages/privacy-police.md": [
-    "./assets/privacy-police-59707ac2.js"
-  ],
-  "pages/term-of-use.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/term-of-use-b232ae44.js"
-  ],
-  "pages/term-of-use.md": [
-    "./assets/term-of-use-b232ae44.js"
-  ],
   "pages/disclaimer.md?vue&type=script&setup=true&lang.ts": [
-    "./assets/disclaimer-3e3b483b.js"
+    "./assets/disclaimer-942886b8.js"
   ],
   "pages/disclaimer.md": [
-    "./assets/disclaimer-3e3b483b.js"
+    "./assets/disclaimer-942886b8.js"
+  ],
+  "pages/sponsors.md?vue&type=script&setup=true&lang.ts": [
+    "./assets/sponsors-3780ecca.js"
+  ],
+  "pages/sponsors.md": [
+    "./assets/sponsors-3780ecca.js"
+  ],
+  "pages/term-of-use.md?vue&type=script&setup=true&lang.ts": [
+    "./assets/term-of-use-908a6d56.js"
+  ],
+  "pages/term-of-use.md": [
+    "./assets/term-of-use-908a6d56.js"
+  ],
+  "pages/privacy-police.md?vue&type=script&setup=true&lang.ts": [
+    "./assets/privacy-police-b8daf18e.js"
+  ],
+  "pages/privacy-police.md": [
+    "./assets/privacy-police-b8daf18e.js"
   ],
   "\u0000vite/modulepreload-polyfill": [
     "./assets/animevsub-9604830c.svg"
